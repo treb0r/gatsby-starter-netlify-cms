@@ -1,6 +1,6 @@
 ---
 templateKey: about-page
-title: Test our values
+title: 'Test our values, why don''t you?'
 ---
 ### This is the first paragraph
 
